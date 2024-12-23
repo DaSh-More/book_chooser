@@ -5,7 +5,8 @@ description = ""
 readme = "README.md"
 requires-python = ">=3.8"
 dependencies = [
-  "flet==0.25.2"
+  "flet==0.25.2",
+  "pony>=0.7.19",
 ]
 
 
